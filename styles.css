@@ -47,3 +47,29 @@ body {
     border:2px solid gainsboro;
     border-radius: 50%;
 }
+
+.first_row{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+
+#screen {
+    width: 250px;
+    border: 2px solid black;
+    height: 90px;
+    margin: 16px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+
+.previous {
+    font-size: 21px;
+}
+
+.current {
+    font-size: 32px;
+}
