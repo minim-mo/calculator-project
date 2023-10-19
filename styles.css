@@ -31,7 +31,7 @@ body {
     background-color: lightsalmon;
 }
 
-.numbers {
+.number {
     border: 2px solid black;
     border-radius: 50%;
 }
@@ -56,9 +56,6 @@ body {
     flex-direction: row;
 }
 
-.rows {
-    
-}
 
 #screen {
     width: 250px;
